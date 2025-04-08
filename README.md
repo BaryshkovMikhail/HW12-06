@@ -8,6 +8,22 @@
 
 ---
 
+## Решение 1
+
+<img src = "img/img0.png" width = 80%>
+
+### MASTER
+
+<img src = "img/img1.png" width = 80%>
+<img src = "img/img3.png" width = 80%>
+
+### SLAVE
+
+<img src = "img/img2.png" width = 80%>
+<img src = "img/img4.png" width = 60%>
+<img src = "img/img5.png" width = 80%>
+---
+
 ## Задание 2
 
 Разработайте план для выполнения горизонтального и вертикального шаринга базы данных. База данных состоит из трёх таблиц: 
